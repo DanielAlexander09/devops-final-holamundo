@@ -1,0 +1,12 @@
+# .NET
+bin/
+obj/
+# Rider / VSCode / Visual Studio
+.idea/
+.vscode/
+.vs/
+# Logs
+*.log
+# OS
+.DS_Store
+Thumbs.db
